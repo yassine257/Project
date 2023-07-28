@@ -157,6 +157,7 @@ nav input{
     height: 400px;
     margin-top: 63px;
 }
+/** customer **/
 .review .customer{
     position: absolute;
      width: 100%;
@@ -178,6 +179,9 @@ nav input{
     color: rgb(255, 132, 0);
     margin-top: 11px;
 }
+
+/** customer review **/
+
 .head h1{
     text-align: center;
     font-size: 44px;
@@ -202,6 +206,7 @@ nav input{
     background-color: rgb(255, 111, 0);
 }
 
+/**footer**/
 .footer{
     display: flex;
     justify-content: space-around;
@@ -230,8 +235,11 @@ nav input{
     border-radius: 4px;
     margin-top: 6px;
 }
-.login h2{
+
+.login h1{
     color: black;
+}
+
 }
 .login input{
     border: none;
@@ -252,7 +260,8 @@ nav input{
     font-size: 18px;
     margin-top: 22px;
 }
-/* nav */
+
+/* start navbar */
 
 .nav{
     display: none;
@@ -277,3 +286,4 @@ nav input{
     cursor: pointer;
     
 }
+/* end navbar */
